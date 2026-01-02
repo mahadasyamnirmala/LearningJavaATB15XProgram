@@ -9,7 +9,8 @@ public class Lab001_HelloWorld {
         //printf() -- it will print the formated output
         System.out.print("Hello welcome to java");
         System.out.print("In Java concepts are ");
-
+        int a= 5 - - 7;
+        System.out.print(a);
        
     }
 }
