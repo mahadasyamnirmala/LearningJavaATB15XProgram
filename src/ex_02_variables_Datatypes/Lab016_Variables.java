@@ -1,6 +1,6 @@
 package ex_02_variables_Datatypes;
 
-public class Lab016_variables_2 {
+public class Lab016_Variables {
 
     public static void main (String[] args) {
         int a = 10;
@@ -68,7 +68,7 @@ public class Lab016_variables_2 {
 
         String s3 = "Nirmala"; // Non Primitive.
         System.out.println(s3);
-        // Pramod -> p,r,a,m,o,d - chars-  String is bunch of chars.
+        // Nirmala--N,i,r,m,a,l,a - chars-  String is bunch of chars.
 
 
 

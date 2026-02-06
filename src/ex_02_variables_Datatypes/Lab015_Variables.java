@@ -1,6 +1,6 @@
 package ex_02_variables_Datatypes;
 
-public class Lab015_variables_1 {
+public class Lab015_Variables {
 
     // ex:15
 
