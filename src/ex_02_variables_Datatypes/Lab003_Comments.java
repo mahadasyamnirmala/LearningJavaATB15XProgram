@@ -1,6 +1,6 @@
-package ex_01_Java_Basics;
+package ex_02_variables_Datatypes;
 
-public class Lab003_comments {
+public class Lab003_Comments {
     public static void main(String[] args) {
 
         // single line comment
@@ -27,6 +27,7 @@ public class Lab003_comments {
          * Author : Nirmala
          * Course :  ATB15xpro
          * Learning :  Java
+         * path:....../.doc
          **/
 
 

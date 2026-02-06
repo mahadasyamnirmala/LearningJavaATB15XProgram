@@ -1,6 +1,6 @@
-package ex_01_Java_Basics;
+package ex_02_variables_Datatypes;
 
-public class Lab002_nomain {
+public class Lab002_NoMain {
     // IQ2: with out  main mathod() we cannot execute the program.
    // static void main(String[] args) {
         // with out  main mathod() we cannot execute the program.

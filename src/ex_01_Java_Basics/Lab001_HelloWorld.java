@@ -10,7 +10,7 @@ public class Lab001_HelloWorld {
         System.out.print("Hello welcome to java");
         System.out.print("In Java concepts are ");
         int a= 5 - - 7;
-        System.out.print(a);
+        System.out.printf("a"+a);
        
     }
 }
